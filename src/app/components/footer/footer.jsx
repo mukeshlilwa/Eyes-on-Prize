@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-12 gap-8">
         {/* Col 1 - Logo and Description */}
         <div className="lg:col-span-3">
-          <img src="/images/logo.svg" alt="Logo" className="w-24 mb-4" />
+          <img src="/images/Logo.svg" alt="Logo" className="w-24 mb-4" />
           <p className="text-sm font-semibold">
             Discover the magic of our services by booking an appointment. Then, get ready for a sparkling car wash experience.
           </p>

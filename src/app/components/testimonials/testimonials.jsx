@@ -32,7 +32,7 @@ const TestimonialsSection = () => {
         {[1, 2, 3].map((_, index) => (
           <div
             key={index}
-            className="bg-black w-full min-h-[288px] rounded-xl shadow-md text-white p-4"
+            className="bg-[#333333] w-full min-h-[288px] rounded-xl shadow-md text-white p-4"
           >
             {/* Top Row: Avatar, Name, Date, Google Icon */}
             <div className="flex justify-between items-start">

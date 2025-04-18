@@ -104,10 +104,10 @@ const NavigationBar = () => {
 
         {/* Desktop Buttons */}
         <div className="hidden md:flex gap-4" id="bebas-font">
-          <button className="bg-transparent text-white text-[1rem] border-2 rounded-3xl px-4 py-2 text-sm uppercase hover:bg-[#7100BBBF]">
+          <button className="bg-transparent text-white text-[1rem] border-2 rounded-3xl px-4 py-2 text-sm uppercase hover:bg-[#7100BBBF] cursor-pointer">
             <span className="inline-block hover:scale-105 transition-transform duration-300">Book Now</span>
           </button>
-          <button className="bg-transparent text-white text-[1rem] border-2 rounded-3xl px-4 py-2 text-sm uppercase hover:bg-[#7100BBBF]">
+          <button className="bg-transparent text-white text-[1rem] border-2 rounded-3xl px-4 py-2 text-sm uppercase hover:bg-[#7100BBBF] cursor-pointer">
             <span className="inline-block hover:scale-105 transition-transform duration-300">Call Now</span>
           </button>
         </div>

@@ -37,7 +37,7 @@ const WhyUs = () => {
           >
             WHY CHOOSE US
           </h3>
-          <h1 className="lg:text-[2.5rem] text-[1.5rem] font-bold mt-2 uppercase">
+          <h1 className="lg:text-[2.5rem] text-[1.5rem] font-bold mt-4 uppercase">
             Lorem ipsum dolor sit amet, consect adipiscing elit.
           </h1>
           <p className="text-[1rem] mt-3 leading-relaxed">

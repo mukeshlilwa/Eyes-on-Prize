@@ -40,10 +40,10 @@ const AboutUs = () => {
             >
               About Us
             </h3>
-            <h1 className="lg:text-[2rem] text-[1.5rem] font-semibold uppercase leading-tight mt-1">
+            <h1 className="lg:text-[2rem] text-[1.5rem] font-semibold uppercase leading-tight mt-6">
               Discover How We Bring Outstanding Excellence to Car Detailing!
             </h1>
-            <p className="text-[1rem] font-normal text-justify mt-2">
+            <p className="text-[1rem] font-normal text-justify mt-4">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in
               auctor est, quis commodo mi. Nulla malesuada iaculis posuere. Nam
               quis massa velit. Nulla id efficitur dui. Etiam id lacinia dui, id
@@ -53,7 +53,7 @@ const AboutUs = () => {
               amet, volutpat quam. Nam scelerisque scelerisque augue, eu semper
               enim faucibus non. Fusce at elementum nibh.
             </p>
-            <button className="mt-4 w-fit bg-[#7100BB] text-white px-6 py-2 rounded-full text-[1rem] uppercase font-semibold transition cursor-pointer">
+            <button className="mt-6 w-fit bg-[#7100BB] text-white px-6 py-2 rounded-full text-[1rem] uppercase font-semibold transition cursor-pointer">
               Book Now
             </button>
           </div>

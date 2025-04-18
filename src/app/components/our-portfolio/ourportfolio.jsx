@@ -27,7 +27,7 @@ const OurPortfolio = () => {
       </h3>
 
       {/* Two Column Flex for Headings */}
-      <div className="flex flex-col md:flex-row gap-5 mt-1">
+      <div className="flex flex-col md:flex-row gap-5 mt-4">
         <div className="md:w-4/12 text-white">
           <h1 className="text-2xl md:text-3xl font-semibold">
             Experience the Best with Our Tailored Packages!

@@ -6,7 +6,6 @@ import OurPackages from "./components/our-packages/ourpackages";
 import WhyUs from "./components/why-us/whyus";
 import OurPortfolio from "./components/our-portfolio/ourportfolio";
 import TestimonalsSection from "./components/testimonials/testimonials";
-import Footer from "./components/footer/footer";
 
 
 export default function Home() {
@@ -20,7 +19,7 @@ export default function Home() {
     <WhyUs/>
     <OurPortfolio/>
     <TestimonalsSection/>
-    <Footer/>
+    
     
     </>
   );
